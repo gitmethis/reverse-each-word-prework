@@ -9,3 +9,4 @@ def reverse_each_word(str)
     new_str[-1] = ''
     new_str
 end
+
